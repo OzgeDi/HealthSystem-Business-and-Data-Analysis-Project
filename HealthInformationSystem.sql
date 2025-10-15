@@ -1,5 +1,5 @@
 -- HealthInformationSystem.sql
--- T-SQL script to create tables and insert realistic sample data
+-- T-SQL script to create tables and insert realistic (not real) sample data
 -- Run this script inside your target database in SSMS (do not include CREATE DATABASE)
 
 SET NOCOUNT ON;
