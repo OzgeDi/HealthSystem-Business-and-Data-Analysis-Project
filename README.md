@@ -1,4 +1,12 @@
 # 🩺 Health Information System Project
+## 🌐 About the Project
+
+This project sample covers **all processes from data generation to business analysis in an end-to-end manner.**  
+It demonstrates practical integration between database design, data analysis, process modeling, testing, visualization and evaluation of system.
+You can view the interactive Power BI report using the link below:  
+👉 [View Dashboard on Power BI Service](https://app.powerbi.com/links/lLiVM-sbrB?ctid=b45d731c-4d44-4555-9369-944aa4eeb9e6&pbi_source=linkShare)
+
+---
 
 ## 🎯 Project Purpose
 
@@ -21,14 +29,6 @@ This project includes the following system components:
 - 🎨 **User Interface Mockup Design**  
 - 📊 **Power BI Dashboard Design and Reporting**
 
----
-
-## 🌐 About the Project
-
-This project sample covers **all processes from data generation to business analysis in an end-to-end manner.**  
-It demonstrates practical integration between database design, data analysis, process modeling, testing, visualization and evaluation of system.
-You can view the interactive Power BI report using the link below:  
-👉 [View Dashboard on Power BI Service](https://app.powerbi.com/links/lLiVM-sbrB?ctid=b45d731c-4d44-4555-9369-944aa4eeb9e6&pbi_source=linkShare)
 ---
 
 ### ⚙️ Technologies & Tools Used
